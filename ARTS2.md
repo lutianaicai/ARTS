@@ -13,7 +13,6 @@
 耗时: 88ms
 内存: 23.5MB
 
-
 ```
 class Solution(object):
     def lowestCommonAncestor(self, root, p, q):
