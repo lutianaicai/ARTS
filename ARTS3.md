@@ -71,7 +71,7 @@ class Solution(object):
 
 ## Review
 
-Different flavors of type erasure in Swift](https://www.swiftbysundell.com/posts/different-flavors-of-type-erasure-in-swift)
+[Different flavors of type erasure in Swift](https://www.swiftbysundell.com/posts/different-flavors-of-type-erasure-in-swift)
 文章给出了利用类型擦除解决实际问题的案例。给出了范型、闭包等方案
 
 作者认为Swift严格的类型检查解除了产生了很多未知bug的隐患，但有时候利用类型擦除隐藏类的一些特性只关注类型本身还是会给开发带来很多好处。
