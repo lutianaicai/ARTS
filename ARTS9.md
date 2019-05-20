@@ -73,7 +73,7 @@ public:
 
 ## Review
 
-[Pure functions in Swiftt](https://www.swiftbysundell.com/posts/pure-functions-in-swift)
+[Pure functions in Swift](https://www.swiftbysundell.com/posts/pure-functions-in-swift)
 作者认为好的函数，应该是不带来任何副作用，不依赖任何外部状态，对于指定入参永远给出相同输出，而且易于测试。
 
 ## Tip
