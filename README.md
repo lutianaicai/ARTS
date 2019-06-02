@@ -12,6 +12,7 @@
 9. [最长上升子序列, Pure functions in Swift, SkyLab, GYDataCenter：高性能数据库框架](https://github.com/lutianaicai/ARTS/blob/master/ARTS9.md)
 10. [编辑距离, Wrapping sequences in Swift, NSDecimalNumber, 使用 ASDK 性能调优 - 提升 iOS 界面的渲染性能](https://github.com/lutianaicai/ARTS/blob/master/ARTS10.md) 
 11. [岛屿数量, Extracting view controller actions in Swift, Refactor to Storyboard, 从 Auto Layout 的布局算法谈性能](https://github.com/lutianaicai/ARTS/blob/master/ARTS11.md)
+12. [朋友圈, Avoiding singletons in Swift, Xcode namespace, 如何打造易扩展的高性能图片组件](https://github.com/lutianaicai/ARTS/blob/master/ARTS12.md)
 
 
 
