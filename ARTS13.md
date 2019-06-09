@@ -98,7 +98,7 @@ public:
 
 private:
 	list<LRUCache::LRUCacheNode> keyElement;//存储的key值
-	unordered_map<int, list<LRUCache::LRUCacheNode>::iterator >	cacheHolder;//实际上存储的数据
+	unordered_map<int, list<LRUCache::LRUCacheNode>::iterator > cacheHolder;//实际上存储的数据
 	int capacity;//cache的容量
 };
 ```
