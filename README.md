@@ -14,7 +14,7 @@
 11. [岛屿数量, Extracting view controller actions in Swift, Refactor to Storyboard, 从 Auto Layout 的布局算法谈性能](https://github.com/lutianaicai/ARTS/blob/master/ARTS11.md)
 12. [朋友圈, Avoiding singletons in Swift, Xcode namespace, 如何打造易扩展的高性能图片组件](https://github.com/lutianaicai/ARTS/blob/master/ARTS12.md)
 13. [LRU缓存机制, Dependency injection using factories in Swift, Xcode discard change,  Re-architecting Pinterest’s iOS app](https://github.com/lutianaicai/ARTS/blob/master/ARTS13.md)
-14. [零钱兑换, Dependency injection using factories in Swift, Xcode discard change,  Re-architecting Pinterest’s iOS app](https://github.com/lutianaicai/ARTS/blob/master/ARTS14.md
+14. [零钱兑换, The Swift 5.1 features that power SwiftUI’s API, Xcode 控件库快捷键, Immutable models and data consistency in our iOS App](https://github.com/lutianaicai/ARTS/blob/master/ARTS14.md)
 
 
 
