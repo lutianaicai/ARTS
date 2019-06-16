@@ -56,7 +56,7 @@ public:
 
 ## Review
 
-[The Swift 5.1 features that power SwiftUI’s APIt](https://www.swiftbysundell.com/posts/the-swift-51-features-that-power-swiftuis-api)
+[The Swift 5.1 features that power SwiftUI’s API](https://www.swiftbysundell.com/posts/the-swift-51-features-that-power-swiftuis-api)
 作者简单介绍了SwiftUI中引入了的Swift5.1新特性。诸如：Opaque return types，Omitted return keywords，Function builders。
 
 ## Tip
