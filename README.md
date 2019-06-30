@@ -16,6 +16,7 @@
 13. [LRU缓存机制, Dependency injection using factories in Swift, Xcode discard change,  Re-architecting Pinterest’s iOS app](https://github.com/lutianaicai/ARTS/blob/master/ARTS13.md)
 14. [零钱兑换, The Swift 5.1 features that power SwiftUI’s API, Xcode 控件库快捷键, Immutable models and data consistency in our iOS App](https://github.com/lutianaicai/ARTS/blob/master/ARTS14.md)
 15. [乘积最大子序列, Using the factory pattern to avoid shared state in Swift, Xcode shift+左键快捷键,Optimizing Images](https://github.com/lutianaicai/ARTS/blob/master/ARTS15.md)
+16. [位1的个数, Shifting paradigms in Swift, Xcode option+左键框选, Cleaner Classes with Structs and Tuples](https://github.com/lutianaicai/ARTS/blob/master/ARTS16.md)
 
 
 
