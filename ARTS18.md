@@ -84,5 +84,5 @@ public:
 
 ## Share
 
-本周分享 [关于离屏渲染的深入研究](https://medium.com/@jasonyuh/%E5%85%B3%E4%BA%8E%E7%A6%BB%E5%B1%8F%E6%B8%B2%E6%9F%93%E7%9A%84%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6-e776f56b3e60) 即刻 iOS leader jason Yu 对离屏渲染方面的研究。
+本周分享 [关于离屏渲染的深入研究](https://medium.com/@jasonyuh/%E5%85%B3%E4%BA%8E%E7%A6%BB%E5%B1%8F%E6%B8%B2%E6%9F%93%E7%9A%84%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6-e776f56b3e60) 即刻 iOS leader Jason Yu 对离屏渲染方面的研究。
 
