@@ -18,6 +18,7 @@
 15. [乘积最大子序列, Using the factory pattern to avoid shared state in Swift, Xcode shift+左键快捷键,Optimizing Images](https://github.com/lutianaicai/ARTS/blob/master/ARTS15.md)
 16. [位1的个数, Shifting paradigms in Swift, Xcode option+左键框选, Cleaner Classes with Structs and Tuples](https://github.com/lutianaicai/ARTS/blob/master/ARTS16.md)
 17. [2的幂, Configurable types in Swift, Xcode preview, 如何优雅地使用 KVO](https://github.com/lutianaicai/ARTS/blob/master/ARTS17.md)
+18. [删除链表的倒数第N个节点, Customizing Codable types in Swift, Xcode #warning(), 关于离屏渲染的深入研究](https://github.com/lutianaicai/ARTS/blob/master/ARTS18.md)
 
 
 
