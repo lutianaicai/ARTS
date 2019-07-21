@@ -19,6 +19,7 @@
 16. [位1的个数, Shifting paradigms in Swift, Xcode option+左键框选, Cleaner Classes with Structs and Tuples](https://github.com/lutianaicai/ARTS/blob/master/ARTS16.md)
 17. [2的幂, Configurable types in Swift, Xcode preview, 如何优雅地使用 KVO](https://github.com/lutianaicai/ARTS/blob/master/ARTS17.md)
 18. [删除链表的倒数第N个节点, Customizing Codable types in Swift, Xcode #warning(), 关于离屏渲染的深入研究](https://github.com/lutianaicai/ARTS/blob/master/ARTS18.md)
+19. [比较含退格的字符串, Generalizing Swift code, Swift 5.1 中枚举可以指定默认值了, 谈谈 MVX 中的 Model](https://github.com/lutianaicai/ARTS/blob/master/ARTS19.md)
 
 
 
